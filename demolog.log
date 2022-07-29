@@ -1,0 +1,9 @@
+ERROR:root:this is an examplee of error
+INFO:root:this is an example of infoo
+CRITICAL:root:this is an example of critical
+WARNING:root:this is an examle of warning
+ERROR:root:this is an examplee of error
+INFO:root:this is an example of infoo
+CRITICAL:root:this is an example of critical
+WARNING:root:this is an examle of warning
+INFO:root:this is launching web

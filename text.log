@@ -1,0 +1,35 @@
+WARNING:root:warning message
+INFO:root:info message
+ERROR:root:error message
+06/23/2022 05:14:52 AM: WARNING: warning message
+06/23/2022 05:14:52 AM: INFO: info message
+06/23/2022 05:14:52 AM: ERROR: error message
+06/23/2022 10:06:33 AM: WARNING: warning message
+06/23/2022 10:06:33 AM: INFO: info message
+06/23/2022 10:06:33 AM: ERROR: error message
+07/07/2022 09:48:42 AM: INFO: this is launching web
+07/07/2022 09:48:42 AM: DEBUG: GET http://localhost:50057/session/5c60035a0a97554e8b0c07cefef9ac52/title {}
+07/07/2022 09:48:42 AM: DEBUG: http://localhost:50057 "GET /session/5c60035a0a97554e8b0c07cefef9ac52/title HTTP/1.1" 200 28
+07/07/2022 09:48:42 AM: DEBUG: Remote response: status=200 | data={"value":"Connect to Wi-Fi"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+07/07/2022 09:48:42 AM: DEBUG: Finished Request
+07/07/2022 09:48:42 AM: DEBUG: GET http://localhost:50057/session/5c60035a0a97554e8b0c07cefef9ac52/title {}
+07/07/2022 09:48:42 AM: DEBUG: http://localhost:50057 "GET /session/5c60035a0a97554e8b0c07cefef9ac52/title HTTP/1.1" 200 28
+07/07/2022 09:48:42 AM: DEBUG: Remote response: status=200 | data={"value":"Connect to Wi-Fi"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+07/07/2022 09:48:42 AM: DEBUG: Finished Request
+07/07/2022 09:48:42 AM: DEBUG: DELETE http://localhost:50057/session/5c60035a0a97554e8b0c07cefef9ac52 {}
+07/07/2022 09:48:42 AM: DEBUG: http://localhost:50057 "DELETE /session/5c60035a0a97554e8b0c07cefef9ac52 HTTP/1.1" 200 14
+07/07/2022 09:48:42 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+07/07/2022 09:48:42 AM: DEBUG: Finished Request
+07/07/2022 09:51:46 AM: INFO: this is launching web
+07/07/2022 09:51:46 AM: DEBUG: GET http://localhost:50116/session/f69bcd62d915f1a13a5f7830772c07d3/title {}
+07/07/2022 09:51:46 AM: DEBUG: http://localhost:50116 "GET /session/f69bcd62d915f1a13a5f7830772c07d3/title HTTP/1.1" 200 28
+07/07/2022 09:51:46 AM: DEBUG: Remote response: status=200 | data={"value":"Connect to Wi-Fi"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+07/07/2022 09:51:46 AM: DEBUG: Finished Request
+07/07/2022 09:51:46 AM: DEBUG: GET http://localhost:50116/session/f69bcd62d915f1a13a5f7830772c07d3/title {}
+07/07/2022 09:51:46 AM: DEBUG: http://localhost:50116 "GET /session/f69bcd62d915f1a13a5f7830772c07d3/title HTTP/1.1" 200 28
+07/07/2022 09:51:46 AM: DEBUG: Remote response: status=200 | data={"value":"Connect to Wi-Fi"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+07/07/2022 09:51:46 AM: DEBUG: Finished Request
+07/07/2022 09:51:46 AM: DEBUG: DELETE http://localhost:50116/session/f69bcd62d915f1a13a5f7830772c07d3 {}
+07/07/2022 09:51:47 AM: DEBUG: http://localhost:50116 "DELETE /session/f69bcd62d915f1a13a5f7830772c07d3 HTTP/1.1" 200 14
+07/07/2022 09:51:47 AM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+07/07/2022 09:51:47 AM: DEBUG: Finished Request
